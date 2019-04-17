@@ -1,5 +1,5 @@
-name: Test
-node_identifier: test
+name: TestA
+node_identifier: testA
 platforms:
   - Docker
 data_sources:
